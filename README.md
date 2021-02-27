@@ -16,6 +16,7 @@
 
 # Alorithm 2
 > Create a map in one dimension
+> 
 > One dimension per data
 
 1. The rows and columns in the map are determined by the number of hidden nodes
