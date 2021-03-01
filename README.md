@@ -8,13 +8,13 @@
 5. Finally, Weight values can be obtained for three layers
 6. 
 
-# Algorithm1
+# Algorithm 2
 > Create maps through integration of each dimension
 
 1. The rows in the map are determined by the number of hidden nodes
 2. The columns in the map are determined by the number of dimensions
 
-# Alorithm 2
+# Alorithm 3
 > Create a map in one dimension
 > 
 > One dimension per data
